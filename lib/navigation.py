@@ -228,7 +228,7 @@ class Navigation(avango.script.Script):
         if math.fabs(value) < threshold:
             return 0.0
         else:
-            return sign * 0.3 * math.pow(math.fabs(value) - threshold, 2.0)
+            return sign * 0.8 * math.pow(math.fabs(value) - threshold, 2.0)
     
     def rotation_transfer_function(self, value):
         threshold = 0.15
