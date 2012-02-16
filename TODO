@@ -1,6 +1,6 @@
 ===============================================
 TODO:
-===============================================
+-----------------------------------------------
 - GameController einbinden
 - Modelle einbinden (Martin)
 	- Strecke
@@ -19,3 +19,4 @@ TODO:
 	- Mit der Streckenbegrenzung
 	- Mit Checkpoints
 - Split-Screen
+===============================================

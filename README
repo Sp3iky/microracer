@@ -1,6 +1,18 @@
+===============================================
+Git-Clone
+-----------------------------------------------
+git clone git@github.com:username/microracer.git
+cd microracer
+git remote add upstream git://github.com/username/microracer.git
+git fetch upstream
+git merge upstream/master
+===============================================
+
+===============================================
 Fragen für Andre:
------------------------------------------------------
+-----------------------------------------------
 - Multiplayer
 - Splitscreen mit 2 Rendertargets
 - Ansteuern bzw. woher kriegen wir Game-Controller
 - Kollisionen mit Avango
+===============================================
