@@ -1,0 +1,21 @@
+===============================================
+TODO:
+===============================================
+- GameController einbinden
+- Modelle einbinden (Martin)
+	- Strecke
+	- Gleiter
+- Steuerung der Gleiter (Eik)
+- Kamerapositionierung
+- Spiellogik
+	- Rundenzähler pro Spieler
+	- Zeitmessung
+	- Positionsauswertung
+	- Checkpoints anlegen und zählen
+- HUD zeichnen
+- Kollision der Gleiter
+	- Ground-Following 
+	- Gegeneinander
+	- Mit der Streckenbegrenzung
+	- Mit Checkpoints
+- Split-Screen

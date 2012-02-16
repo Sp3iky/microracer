@@ -32,6 +32,9 @@ from vr_lib.simple_navigation import *
 # import modules from local library
 from lib.scene import *
 from lib.navigation import *
+from lib.gamelogic import *
+from lib.hud import *
+from lib.player import *
 
 class Application:
 
